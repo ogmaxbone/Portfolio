@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ogmaxbone/Portfolio/static/css/main.67a468da.css",
+    "main.js": "/ogmaxbone/Portfolio/static/js/main.f8066fb1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ogmaxbone/Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg.png": "/ogmaxbone/Portfolio/static/media/bg.fc9559fd657b3d2cbf9f.png",
+    "index.html": "/ogmaxbone/Portfolio/index.html",
+    "main.67a468da.css.map": "/ogmaxbone/Portfolio/static/css/main.67a468da.css.map",
+    "main.f8066fb1.js.map": "/ogmaxbone/Portfolio/static/js/main.f8066fb1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ogmaxbone/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67a468da.css",
+    "static/js/main.f8066fb1.js"
+  ]
+}

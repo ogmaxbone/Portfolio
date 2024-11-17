@@ -10,8 +10,8 @@ function App() {
       <div className="content">
         <h1 className='header1'>About</h1>
       <p className='bio' style={{ whiteSpace: 'pre-wrap' }}>
-        I am a 21 year old <span style={{color: 'white'}}>software engineer</span> based in <span style={{color: 'white'}}>Texas</span>.📍 
-        Currently, I am pursuing a <span style={{color: 'white'}}>Bachelor of Science</span> degree in <span style={{color: 'white'}}>Computer Science</span> at Texas Tech Universitys, where I am immersing myself in the vast realm of software<span style={{color: 'white'}}> development</span>.
+        I am a 22 year old <span style={{color: 'white'}}>software engineer</span> based in <span style={{color: 'white'}}>Texas</span>.📍 
+        Currently, I am pursuing a <span style={{color: 'white'}}>Bachelor of Science</span> degree in <span style={{color: 'white'}}>Computer Science</span> at Texas Tech University, where I am immersing myself in the vast realm of software<span style={{color: 'white'}}> development</span>.
       </p>
       <div className='socials'>
         <div className="social-icon">

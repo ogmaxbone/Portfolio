@@ -206,3 +206,24 @@ body::-webkit-scrollbar-thumb {
   margin-bottom: -1px;
   cursor: pointer;
 }
+
+.staffly {
+  text-align: left;
+  margin-bottom: -0.725rem;
+}
+
+.stafflyHeader {
+  margin-top: 2.5%;
+  font-size: 16px;
+  margin-bottom: -0.725rem;
+}
+
+.stafflyHeader:hover {
+  text-decoration: underline;
+}
+
+.stafflyDescript {
+  margin-top: -2.5%;
+  text-align: left;
+  color: #808080;
+}
